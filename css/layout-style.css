@@ -4,8 +4,10 @@
     height: 100px;
     border: 1px solid orange;
     }
-    
-    .nav {
+
+    a:link { color: blue; font-weight: bold;}
+ 
+.nav {
     width: 125px;
     height: 250px;
     border: 1px solid blue;
